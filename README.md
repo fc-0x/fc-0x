@@ -1,16 +1,24 @@
-## Hi there 👋
+# fc-0x
 
-<!--
-**fc-0x/fc-0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High school student building real projects at the intersection of VR, AI, and infrastructure.
 
-Here are some ideas to get you started:
+## Active Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [Earthquake-VR](https://github.com/fc-0x/Earthquake-VR) | VR earthquake safety simulation with real-time reaction tracking | Unity, SteamVR, C# | 🔒 Private |
+| [pi-cluster](https://github.com/fc-0x/pi-cluster) | 6-node Raspberry Pi Kubernetes cluster with Grafana monitoring | K3s, Prometheus, Linux | 🔧 Building |
+
+## Currently Working On
+- Distributed Kubernetes cluster on Raspberry Pi hardware
+- Stock analysis platform
+- Autonomous vehicle systems with QGroundControl (UAV drones)
+- Linux improving program "Pardus" Arm64/Aarch64
+
+## Stack
+`Unity` `C#` `Python` `Linux` `Kubernetes` `Docker` `Raspberry Pi` `SteamVR` `Local LLM Integrations` 
+
+## Highlights
+- VR disaster simulation has been officially reviewed by university jury (private repo)
+- IT lab manager at science high school
+- Google Play Console Developer
