@@ -8,6 +8,7 @@ High school student building real projects at the intersection of VR, AI, and in
 |---|---|---|---|
 | [Earthquake-VR](https://github.com/fc-0x/Earthquake-VR) | VR earthquake safety simulation with real-time reaction tracking | Unity, SteamVR, C# | 🔒 Private |
 | [pi-cluster](https://github.com/fc-0x/pi-cluster) | 6-node Raspberry Pi Kubernetes cluster with Grafana monitoring | K3s, Prometheus, Linux | 🔧 Building |
+| [Showoff 3D](...) | Ricochet puzzle shooter published on Google Play | Unity, C# | 📦 Shelved |
 
 ## Currently Working On
 - Distributed Kubernetes cluster on Raspberry Pi hardware
