@@ -18,7 +18,7 @@ High school student building real projects at the intersection of VR, AI, and in
 - Cybersecurity Research
 - Learning
 - reverse engineering
-- 
+- and many more..
 ## Stack
 `Unity` `C#` `Python` `Linux` `Kubernetes` `Docker` `Raspberry Pi` `SteamVR` `Local LLM Integrations` `Solo Developer` 
 
